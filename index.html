@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+    <title>User Logger</title>
+	
+		<script>
+	window.onload = function() {
+		if(navigator.userAgent.toLowerCase().indexOf('firefox') > -1){
+	  document.getElementById("notice").innerHTML = "FireFox detected, Use Chrome or Edge for the datepicker to work, otherwise you need to manually enter the date in the format yyyy-mm-dd e.g 2017-05-30" }
+	};
+		</script>
+	
+
+
+
+</head>
+<body>
+<br><br>
+<div class="container">
+
+
+<div id="output"  align="center"> 
+<P id="notice"> </P>
+<h2>User Logger </h2>
+
+
+<form action="SearchLogs.php">
+    
+
+<table><th> <h2>Log Search </h2></th><th> <input type="submit" value="Go To Search" class="dropbtn" id="btnGo"/> </th>
+</table>
+</form>
+
+
+<h3> Admin and Info:</h3>
+
+<table>
+
+
+<tr><td><a href="admin.php">Admin</a></td></tr>
+<tr><td><a href="info.txt">About and Help</a></td></tr>
+
+</table>
+
+<br><br><br>
+<p></p>
+
+
+</div>
+</div>
+</body>
+</html>
+
+<!--
+User Logger Main Page
+AlexeyP 2017
+
+-->
+

@@ -1,0 +1,152 @@
+body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            line-height: 1.428571429;
+            background-color: #FFFFFF;
+            color: #2F3230;
+            padding: 0;
+            margin: 0;
+        }
+        section, footer {
+            display: block;
+            padding: 0;
+            margin: 0;
+        }
+        .container {
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0 10px;
+        }
+        .company-title {
+            font-size: 200%;
+            color: #1200A9;
+			
+        }
+
+        .alert-and-counter {
+            margin-bottom: 20px;
+            font-size: 16px;
+        }
+        .alert-and-counter a {
+            text-decoration: underline;
+            color: #428BCA;
+        }
+        .alert-and-counter a:hover,
+        .alert-and-counter a:focus,
+        .alert-and-counter a:active {
+            color: #2A6496;
+        }
+		
+
+        footer {
+            text-align: center;
+            margin: 60px 0;
+        }
+
+        footer a {
+            text-decoration: none;
+        }
+
+        .copyright {
+            font-size: 10px;
+            color: #3F4143;
+        }
+
+        @media (min-width: 5px) {
+
+
+            .container {
+                width: 90%;
+            }
+
+            .alert-and-counter {
+                font-size: 18px;
+            }
+
+        @media (min-width: 5px) {
+
+            .container {
+                width: 70%;
+            }
+
+        }
+	
+
+		/* Actions Button*/	
+		.dropbtn {
+		background-color: #DD0004;
+		color: white;
+		padding: 5px;
+		font-size: 16px;
+		border: none;
+		cursor: pointer;
+		/*margin-top:18px;*/
+		}
+
+	/* Dropdown button on hover & focus */
+	.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+	}
+
+
+
+	blink, .blink {
+	-webkit-animation: blink 1s step-end infinite;
+	-moz-animation: blink 1s step-end infinite;
+	-o-animation: blink 1s step-end infinite;
+	animation: blink 1s step-end infinite;
+ 
+	}
+
+	@-webkit-keyframes blink {
+	67% { opacity: 0 }
+	}
+
+	@-moz-keyframes blink {
+	67% { opacity: 0 }
+	}
+
+	@-o-keyframes blink {
+    67% { opacity: 0 }
+	}
+
+	@keyframes blink {
+    67% { opacity: 0 }
+	}
+
+	td
+	{
+    /*padding:10px 10px 10px 10px !important;*/
+	padding:0px 20px 0px 20px !important;
+    font-size: 12px !important;
+    
+	}
+
+	th
+	{
+	padding:0px 20px 0px 20px !important;
+	color: #55015F !important;
+	/*border: 1px solid black;*/
+	}
+
+	td
+	{
+	font-weight: bold;
+
+	}
+
+	.alert-and-counter {
+	    
+	    font-weight: bold !important;
+	    color: #640101 !important;
+        }
+		
+		
+    .input {
+        width: 180px;
+        clear: both;
+    }
+    .input input {
+        width: 100%;
+        clear: both;
+    }
