@@ -1,16 +1,4 @@
 ------------- Web Based Logon Logging Ver 1.0  --------
--                                   
--   	Audit and track user logins and help with    
--       problem Solving.
--
--	Upgrade from and inspired by 
--	the original Batch Script Logger                         
--                                                      
--   	OS : Windows 7+     
--
--	AlexeyP 2017                         -
--------------------------------------------------------
-
 ---Requirements---
 
 Server:
