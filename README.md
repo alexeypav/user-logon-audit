@@ -8,9 +8,7 @@ For logging user logons/logoffs in a Windows environment
 -	Upgrade from and inspired by 
 -	the original Batch Script Logger                         
 -                                                      
--   	OS : Windows 7+     
--
--	AlexeyP 2017                         -
+-   	OS : Windows 7+                           -
 -------------------------------------------------------
 
 ---Requirements---
