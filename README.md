@@ -3,8 +3,7 @@
 
 \------------- Web Based Logon Logging Ver 1.0  --------
 \-                                   
-\-   	Audit and track user logins and help with    
-\-       problem Solving.
+\-   	Audit and track user logins
 \-
 \-	Upgrade from and inspired by 
 \-	the original Batch Script Logger                         
