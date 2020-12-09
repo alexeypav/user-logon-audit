@@ -1,15 +1,17 @@
-# UserLogonAudit
-For logging user logons/logoffs in a Windows environment
-------------- Web Based Logon Logging Ver 1.0  --------
--                                   
--   	Audit and track user logins and help with    
--       problem Solving.
+\# UserLogonAudit
+\For logging user logons/logoffs in a Windows environment
+
+\------------- Web Based Logon Logging Ver 1.0  --------
+\-                                   
+\-   	Audit and track user logins and help with    
+\-       problem Solving.
+\-
+\-	Upgrade from and inspired by 
+\-	the original Batch Script Logger                         
+\-                                                      
+\-   	OS : Windows 7+   
 -
--	Upgrade from and inspired by 
--	the original Batch Script Logger                         
--                                                      
--   	OS : Windows 7+                           -
--------------------------------------------------------
+\-------------------------------------------------------
 
 ---Requirements---
 
