@@ -8,6 +8,9 @@ Must add/uncomment these lines in your PHP.ini file (modules should come with PH
 
 extension=php_sqlite3.dll
 
+Powershell 
+PSSQLite Module
+
 Clients:
 Powershell
 

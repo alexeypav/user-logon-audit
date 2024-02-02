@@ -1,8 +1,10 @@
 # UserLogonAudit
 
-**For logging user logons/logoffs in a Windows environment**
+**For logging user logons/logoffs in a Windows environment (Created 2017)**
+
 
 ---
+## This is an insecure app, make sure to host this in a private network behind a firewall, must not be exposed publicly
 
 ## Web Based Logon Logging Ver 1.0
 
@@ -19,6 +21,8 @@
 - Webserver with PHP 5.x and 7.x should work
 - Must add/uncomment these lines in your PHP.ini file (modules should come with PHP install): extension=php_sqlite3.dll
 
+- PowerShell
+- PSSQLite PowerShell module available (https://www.powershellgallery.com/packages/PSSQLite)
 
 ### Clients:
 
