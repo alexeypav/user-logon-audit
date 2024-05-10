@@ -2,12 +2,11 @@
 
 **For logging user logons and logoffs in a Windows environment.** (Created 2017)
 
-This tool audits and tracks user logon and logoff activities, offering a web-based interface to monitor events. It's an upgrade from the original Batch Script Logger and supports Windows 7 and above.
+This tool audits and tracks user logon and logoff activities, offering a web-based interface to monitor events. An upgrade on a Batch Script Logger, supports Windows 7 and above.
 
 ## Web Based Logon Logging Ver 1.0
 
 - **Audit and Track User Logins**: Monitor user logon and logoff activities.
-- **Upgraded Technology**: Enhanced from the original Batch Script Logger.
 - **Operating System**: Compatible with Windows 7 and newer versions.
 
 ## Requirements
